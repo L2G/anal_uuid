@@ -1,6 +1,6 @@
 # AnalUUID
 
-TODO: Write a gem description
+To be a Ruby gem for forensic analysis of the data hidden within UUIDs.
 
 ## Installation
 
